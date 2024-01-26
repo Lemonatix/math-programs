@@ -1,1 +1,1 @@
-Original Code from @biosfood , added Integrals to the calculation
+Original Code from @biosfood, added Integrals to the calculation
