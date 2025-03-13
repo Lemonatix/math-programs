@@ -7,7 +7,7 @@ def is_nonsingular(A,B):
     return discriminant(A,B) != 0
 
 def compute_rank(A,B):
-    return random.choice([0, 1, 2])
+    return random.choice([0, 1, 2]) # for higher ranks, average is wrong
 
 sample_size = 1000000
 ranks = []
