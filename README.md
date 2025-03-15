@@ -1,1 +1,1 @@
-Original Code from @biosfood, added LaTeX to the calculation
+Original Code of partial-franction.ipynb from @biosfood, added LaTeX to the calculation
